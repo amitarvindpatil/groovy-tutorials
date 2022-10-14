@@ -1,0 +1,27 @@
+data-types.groovy
+- All Data-types example and syntax
+------------------------------------------------------------------
+looping-statement.groovy
+- while loop
+- for loop
+- for in loop
+------------------------------------------------------------------
+break-conti.groovy
+ - break and continue statement
+------------------------------------------------------------------
+conditionalStatement.groovy
+- if statement
+- if-else statement
+- if-else-if statement
+- swith statement
+- nested switch statement
+------------------------------------------------------------------
+methods.groovy
+
+- Simple Method/function declaration
+- methods parameters
+- default parameters
+- return example
+- local veriable and globle veriable
+- this keyword
+
